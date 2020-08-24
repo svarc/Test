@@ -1,3 +1,33 @@
+# Aleksandar Risteski - Test Assignment
+
+## Installation
+
+To install the project do the following:
+
+- Create virtual host
+- Clone the repository
+- Create a database and database user
+- Copy .env.example to .env and set the App and Database variables
+- Execute the following commands
+
+```bash
+composer install
+```
+```bash
+php artisan migrate
+```
+```bash
+php artisan key:generate
+```
+```bash
+npm install
+```
+```bash
+npm run prod
+```
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
