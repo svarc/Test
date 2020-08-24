@@ -1,0 +1,15 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/app.js.map": "/js/app.js.map",
+    "/js/dropzone.js": "/js/dropzone.js",
+    "/js/dropzone.js.map": "/js/dropzone.js.map",
+    "/js/jquery.canvasjs.min.js": "/js/jquery.canvasjs.min.js",
+    "/js/jquery.canvasjs.min.js.map": "/js/jquery.canvasjs.min.js.map",
+    "/js/scripts.js": "/js/scripts.js",
+    "/css/style.css": "/css/style.css",
+    "/css/dropzone.css": "/css/dropzone.css",
+    "/js/scripts.js.map": "/js/scripts.js.map",
+    "/css/style.css.map": "/css/style.css.map",
+    "/css/dropzone.css.map": "/css/dropzone.css.map",
+    "/js/bootstrap.js": "/js/bootstrap.js"
+}

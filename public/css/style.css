@@ -1,0 +1,88 @@
+.dropzone-container {
+  min-height: 200px;
+}
+
+#dropzone,
+#no-users {
+  width: 100% !important;
+  min-height: 300px;
+  border: 2px dashed #1d587f;
+  cursor: pointer;
+  color: #fff;
+  line-height: 100%;
+  background-color: #3498db;
+  border-radius: 10px;
+  text-align: center;
+  height: 1px;
+  position: relative;
+}
+
+#no-users {
+  cursor: initial;
+}
+
+#no-users a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+#no-users a:hover,
+#no-users a:visited {
+  color: #fff;
+}
+
+#dropzone:hover {
+  background-color: #2980b9;
+}
+
+.text-description {
+  padding: 10px;
+  position: relative;
+  top: 50%;
+  transform: translate(0, -50%);
+  pointer-events: none;
+}
+
+.text-description-users {
+  padding: 10px;
+  position: relative;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+
+.content {
+  border-radius: 10px;
+  border: 1px solid #ddd;
+  box-shadow: 10px 10px 20px -6px rgba(0, 0, 0, 0.75);
+}
+
+.content tbody tr:hover {
+  cursor: pointer;
+}
+
+.content-container {
+  padding-top: 70px;
+}
+
+#modal-error .modal-content {
+  background-color: #e74c3c;
+  color: #fff;
+  box-shadow: 10px 10px 20px -6px rgba(0, 0, 0, 0.75);
+}
+
+#modal-error .modal-content .close {
+  color: #fff !important;
+}
+
+#modal-success .modal-content {
+  background-color: #2ecc71;
+  color: #fff;
+  box-shadow: 10px 10px 20px -6px rgba(0, 0, 0, 0.75);
+}
+
+#modal-success .modal-content .close {
+  color: #fff !important;
+}
+
+
+/*# sourceMappingURL=style.css.map*/
