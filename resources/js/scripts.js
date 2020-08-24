@@ -93,7 +93,7 @@ jQuery(document).ready(function(){
         axisYType: "secondary",
         showInLegend: true,
         xValueFormatString: "MMM YYYY",
-        yValueFormatString: "$#,##0.#",
+        yValueFormatString: "#,##0.# Seconds",
         dataPoints: durations_data,
       }]
     };
